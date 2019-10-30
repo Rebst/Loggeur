@@ -23,17 +23,23 @@ loggeur.done('example', { username: 'user' })
 ```javascript
 const loggeur = require('color')
 
-loggeur.log('example') //=> > example
+loggeur.log('example')
+//=> > example
 
-loggeur.done('example', { username: 'user' }) //=> DONE example { username: 'user' }
+loggeur.done('example', { username: 'user' })
+//=> DONE example { username: 'user' }
 
-loggeur.success('example') //=> SUCCESS example
+loggeur.success('example')
+//=> SUCCESS example
 
-loggeur.info('example', ['element1', 'element2']) //=> INFO example [ 'element1', 'element2' ]
+loggeur.info('example', ['element1', 'element2'])
+//=> INFO example [ 'element1', 'element2' ]
 
-loggeur.error('example') //=> ERROR example
+loggeur.error('example')
+//=> ERROR example
 
-loggeur.warn('example', 'example2') //=> WARN example example2
+loggeur.warn('example', 'example2')
+//=> WARN example example2
 ```
 
 ## License
