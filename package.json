@@ -1,0 +1,18 @@
+{
+  "name": "loggeur",
+  "version": "1.0.0",
+  "description": "An easy-to-use NodeJs package to display stylized messages in the console",
+  "main": "index.js",
+  "keywords": [
+    "log",
+    "debug",
+    "color"
+  ],
+  "author": "Rebst",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rebst/Loggeur"
+  },
+  "homepage": "https://github.com/Rebst/Loggeur"
+}
