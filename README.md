@@ -21,7 +21,7 @@ loggeur.done('example', { username: 'user' })
 ## Usage
 
 ```javascript
-const loggeur = require('color')
+const loggeur = require('loggeur')
 
 loggeur.log('example')
 //=> > example

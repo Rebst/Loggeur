@@ -1,6 +1,6 @@
 {
   "name": "loggeur",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An easy-to-use NodeJs package to display stylized messages in the console",
   "main": "index.js",
   "keywords": [
